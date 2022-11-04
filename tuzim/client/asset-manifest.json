@@ -1,13 +1,14 @@
 {
-  "barcode.css": "https://cdn.jsdelivr.net/gh/infinity-zhi/assets/tuzim/client/barcode.efe7f156.chunk.css",
-  "barcode.js": "https://cdn.jsdelivr.net/gh/infinity-zhi/assets/tuzim/client/barcode.94335ab7.chunk.js",
-  "vendor.js": "https://cdn.jsdelivr.net/gh/infinity-zhi/assets/tuzim/client/vendor.2e46eec7.chunk.js",
+  "barcode.css": "https://cdn.jsdelivr.net/gh/infinity-zhi/assets/tuzim/client/barcode.1f95e7c8.chunk.css",
+  "barcode.js": "https://cdn.jsdelivr.net/gh/infinity-zhi/assets/tuzim/client/barcode.04fa9f56.chunk.js",
+  "vendor.js": "https://cdn.jsdelivr.net/gh/infinity-zhi/assets/tuzim/client/vendor.a8b2dd7a.chunk.js",
   "Page.css": "https://cdn.jsdelivr.net/gh/infinity-zhi/assets/tuzim/client/Page.8fc1fde5.chunk.css",
-  "Page.js": "https://cdn.jsdelivr.net/gh/infinity-zhi/assets/tuzim/client/Page.ceb54028.chunk.js",
-  "runtime~Page.js": "https://cdn.jsdelivr.net/gh/infinity-zhi/assets/tuzim/client/runtime~Page.2962df61.js",
-  "4.142c1f88.chunk.js": "https://cdn.jsdelivr.net/gh/infinity-zhi/assets/tuzim/client/4.142c1f88.chunk.js",
-  "5.43c60b33.chunk.js": "https://cdn.jsdelivr.net/gh/infinity-zhi/assets/tuzim/client/5.43c60b33.chunk.js",
-  "dcr.worker.4aa072cc.worker.js": "https://cdn.jsdelivr.net/gh/infinity-zhi/assets/tuzim/client/dcr.worker.4aa072cc.worker.js",
+  "Page.js": "https://cdn.jsdelivr.net/gh/infinity-zhi/assets/tuzim/client/Page.511a2355.chunk.js",
+  "decode.css": "https://cdn.jsdelivr.net/gh/infinity-zhi/assets/tuzim/client/decode.9d409659.chunk.css",
+  "decode.js": "https://cdn.jsdelivr.net/gh/infinity-zhi/assets/tuzim/client/decode.8ad5328d.chunk.js",
+  "runtime~Page.js": "https://cdn.jsdelivr.net/gh/infinity-zhi/assets/tuzim/client/runtime~Page.4af22fd6.js",
+  "5.6cfce7d7.chunk.js": "https://cdn.jsdelivr.net/gh/infinity-zhi/assets/tuzim/client/5.6cfce7d7.chunk.js",
+  "6.2dc2608a.chunk.js": "https://cdn.jsdelivr.net/gh/infinity-zhi/assets/tuzim/client/6.2dc2608a.chunk.js",
   "static/zbar.wasm.bin": "https://cdn.jsdelivr.net/gh/infinity-zhi/assets/tuzim/client/static/5cad1f0f.bin",
   "static/wasmzint.wasm.bin": "https://cdn.jsdelivr.net/gh/infinity-zhi/assets/tuzim/client/static/7e2c2e3e.bin"
 }
